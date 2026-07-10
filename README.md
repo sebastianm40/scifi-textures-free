@@ -5,6 +5,12 @@ Dark gunmetal, neon accents, PBR ready, Unity URP/HDRP.
 
 ---
 
+## ⬛ Sci-Fi Wall Panel Pack 03 (Dark Industrial)
+Clean + Damaged variants, 4K, PBR, Emission maps included.
+📹 [Video] https://youtu.be/HQw_HC2v2LA · [itch.io](https://sebastianm40.itch.io/sci-fi-wall-panel-textures-pack-03) · [ArtStation] https://sebastianm40.artstation.com/projects/Ao9EEq
+
+---
+
 ## 🚪 Sci-Fi Door Pack 01
 ![Door Pack 01](door-pack-01.png)
 8 variants (4 Clean + 4 Damaged), 4K, PBR.
