@@ -4,6 +4,12 @@ Free samples & full catalog of my sci-fi PBR texture packs.
 Dark gunmetal, neon accents, PBR ready, Unity URP/HDRP.
 
 ---
+## 🟫 Sci-Fi Wall Pack 04 (Rusty Wasteland)
+![Wall Pack 04](wall-pack-04.png)
+10 variants (5 Clean + 5 Damaged), 4K, PBR, corroded/rusty wall panels, URP ready.
+[itch.io](https://sebastianm40.itch.io/sci-fi-wall-pack-04-rusty-wasteland-clean-damaged-4k-pbr)
+
+---
 
 ## ⬛ Sci-Fi Wall Panel Pack 03 (Dark Industrial)
 Clean + Damaged variants, 4K, PBR, Emission maps included.
